@@ -1,6 +1,6 @@
 # 🧠 TaskForge
 
-**TaskForge** is a clean, modern, and responsive TODO CRUD web app where users can create, edit, delete, and mark tasks as completed — a digital journal to forge your moments into memory.
+**TaskForge** is a clean, modern, and responsive TODO CRUD web app where users can create, edit, delete, and mark tasks as completed.
 Its a learning project I made for learning with react and databases
 
 ---
